@@ -1,6 +1,6 @@
 #### Our project for Deep Learning subject
 #### Main coder: Grimaru
-#### Technical support: @phamdinhanhphuong-ship-it
+#### Technical support: <a href="https://www.google.com/url?sa=E&source=gmail&q=https://github.com/phamdinhanhphuong-ship-it">@phamdinhanhphuong-ship-it</a>
 #### Email: rinnenguyenlife4u@gmail.com (sub: 22dh112315@st.huflit.edu.vn)
 #### Here’s the link for the dataset: https://www.kaggle.com/datasets/ahmedkhanak1995/sign-language-gesture-images-dataset
 #### I used two models for this project: ResNet50 and VGG16. I write out two stages:
